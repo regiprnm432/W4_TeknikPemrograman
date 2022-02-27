@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+D:\Dokumen Tugas\Tugas Teknik Pemrograman\Tugas W4 Teknik Pemrograman\.metadata\.plugins\org.eclipse.jdt.core
+1433038570.index
+1865797976.index
+1574843208.index
+3429056336.index

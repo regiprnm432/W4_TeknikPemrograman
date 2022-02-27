@@ -1,0 +1,13 @@
+
+public class Item {
+	private String name;
+	private Item() {
+		name = "Ipin";
+	}
+	public Item(String name) {
+		this();	//statement ini ditambahkan untuk constructor delegations
+		
+		System.out.println(this.name);
+	}
+}
+
